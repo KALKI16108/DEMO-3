@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Dr. Nidhi's Dental Clinic",
+  "description": "Best Dental Clinic in Goregaon West, Mumbai. Premium aesthetic dental care, teeth whitening, clear aligners, and dental implants by Dr. Nidhi.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
