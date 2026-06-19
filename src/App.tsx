@@ -296,11 +296,7 @@ export default function App() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="w-full lg:w-[48%] h-[320px] sm:h-[400px] lg:h-full min-h-[300px] lg:min-h-[450px] z-0 flex items-end justify-end rounded-3xl overflow-hidden shadow-lg border border-white/40 bg-white/35 backdrop-blur-sm"
             >
-              <img 
-                src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80&w=1200" 
-                alt="Radiant Smiling Patient at Dr. Nidhi's Dental Clinic" 
-                className="object-cover w-full h-full object-center pointer-events-none"
-              />
+              <img src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=1200" alt="Radiant Smiling Patient at Dr. Nidhi's Dental Clinic" className="object-cover w-full h-full object-center pointer-events-none" />
             </motion.div>
           </div>
           
@@ -598,7 +594,7 @@ export default function App() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="rounded-[2rem] overflow-hidden bg-zinc-100 h-[260px] lg:h-[300px] border border-zinc-100 shadow-sm"
             >
-              <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&q=80&w=800" alt="Hygienist performing scaling at Goregaon Clinic" className="w-full h-full object-cover grayscale-[10%]" />
+              <img src="https://images.unsplash.com/photo-1598256989800-fea5ce5146f2?auto=format&fit=crop&q=80&w=800" alt="Hygienist performing scaling at Goregaon Clinic" className="w-full h-full object-cover grayscale-[10%]" />
             </motion.div>
             <motion.div 
                initial={{ opacity: 0, scale: 0.95 }}
@@ -607,7 +603,7 @@ export default function App() {
                transition={{ duration: 0.6, delay: 0.3 }}
                className="rounded-[2rem] overflow-hidden bg-zinc-100 flex-1 min-h-[300px] border border-zinc-100 shadow-sm"
             >
-               <img src="https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&q=80&w=800" alt="Beautiful white teeth solution with veneers" className="w-full h-full object-cover object-top" />
+               <img src="https://images.unsplash.com/photo-1551076805-e167926715f0?auto=format&fit=crop&q=80&w=1200" alt="Beautiful white teeth solution with veneers" className="w-full h-full object-cover object-top" />
             </motion.div>
           </div>
 
